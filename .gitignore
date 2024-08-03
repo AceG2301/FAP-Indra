@@ -1,0 +1,27 @@
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code C++ configuration file
+.vscode/c_cpp_properties.json
